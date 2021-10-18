@@ -477,3 +477,12 @@ header {
   margin-right: auto;
 }
 
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.github_link {
+  text-align: center;
+}
